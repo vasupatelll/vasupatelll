@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vasu Patel</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right" alt="Data" width="465" height="220" src="https://www.analyticsinsight.net/wp-content/uploads/2019/11/radiology-deep-learning.gif">
+<img align="right" alt="Data" width="400" height="220" src="https://www.analyticsinsight.net/wp-content/uploads/2019/11/radiology-deep-learning.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasupatelll&label=Profile%20views&color=0e75b6&style=flat" alt="vasupatelll" /> </p>
 
