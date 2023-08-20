@@ -1,4 +1,4 @@
-![logo](https://github.com/vasupatelll/vasupatelll/blob/main/banner.png.jpg) 
+![logo](https://github.com/vasupatelll/vasupatelll/blob/main/banner.png) 
 <h1 align="center">Hi 👋, I'm Vasu Patel</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
