@@ -32,7 +32,10 @@ vasupatelll@github
 ![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2032%20mins-550000?style=flat)
 
 <!--START_SECTION:readme-stats-->
+waka-readme-stats
+https://github.com/anmol098/waka-readme-stats
 
+for configuration, set .github/workflows/update-stats.yml
 
 <!--END_SECTION:readme-stats-->
 
