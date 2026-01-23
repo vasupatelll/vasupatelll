@@ -1,20 +1,30 @@
 ![logo](https://github.com/vasupatelll/vasupatelll/blob/main/banner.png) 
-<h1 align="center">Hi 👋, I'm Vasu Patel</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&size=21&pause=1100&color=550000&width=435&lines=Vasu's+Page)](https://git.io/typing-svg)
 
-<img align="right" alt="Data" width="400" height="220" src="https://www.analyticsinsight.net/wp-content/uploads/2019/11/radiology-deep-learning.gif">
+<!---
+Show profile views
+-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vasupatelll&color=550000&style=for-the-badge">
+</p> <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasupatelll&label=Profile%20views&color=0e75b6&style=flat" alt="vasupatelll" /> </p>
+<p>
+<img align="left" src="p_image.gif" width="170" /> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vasu-patel19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vasu-patel19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vasupatel19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasupatel19" height="30" width="40" /></a>
+```
+vasupatelll@github
+-------------------------
+🏫 Drexel University, Business Analysis in grad
+📜 BBA with Data Science in undergrad, keen learner of Statistics
+
+☁️ Multi-cloud platforms (GCP, Azure)
+💫 Built event-driven pipelines processing multi-hop data
+✏️ Currently overseeing data manager via TCP/IP server at The Commons XR
+🏃‍♀️ My daily operation looks like data migration / automation / LLM integration
+```
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p> <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=vasupatelll&show_icons=true&locale=en" alt="vasupatelll" /></p>
-<p><img align="left" width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=vasupatelll&" alt="vasupatelll" /></p>
- 
+
+[![Vasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasupatelll&bg_color=ebebeb&color=b51a00&line=b51a00&point=444444&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
