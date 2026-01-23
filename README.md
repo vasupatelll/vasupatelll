@@ -9,7 +9,7 @@ Show profile views
 </p> <br>
 
 <p>
-<img align="left" src="p_image.gif" width="170" /> 
+<img align="left" src="p_image.gif" width="250" /> 
 
 ```
 vasupatelll@github
