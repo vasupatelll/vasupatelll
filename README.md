@@ -32,10 +32,35 @@ vasupatelll@github
 ![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2032%20mins-550000?style=flat)
 
 <!--START_SECTION:readme-stats-->
-waka-readme-stats
-https://github.com/anmol098/waka-readme-stats
+**🕒 I'm An Afternoon Warrior 🥷🏻**
 
-for configuration, set .github/workflows/update-stats.yml
+```text
+🌅 Morning                44 commits          ██████░░░░░░░░░░░░░░░░░░░   24.04%
+🌞 Daytime                67 commits          █████████░░░░░░░░░░░░░░░░   36.61%
+🌆 Evening                40 commits          █████░░░░░░░░░░░░░░░░░░░░   21.86%
+🌙 Night                  32 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.49%
+```
+
+**📅 I'm Most Productive on Monday**
+
+```text
+Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93%
+Monday                   38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.77%
+Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21%
+Wednesday                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21%
+Thursday                 34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58%
+Friday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
+Saturday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29%
+```
+
+**🔥 I Mostly Code in Jupyter Notebook**
+
+```text
+Jupyter Notebook         14 repos            █████████████████████░░░░   82.35%
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76%
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88%
+```
+
 
 <!--END_SECTION:readme-stats-->
 
