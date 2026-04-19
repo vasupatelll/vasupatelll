@@ -35,22 +35,22 @@ vasupatelll@github
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00%
-🌞 Daytime                67 commits          ████████░░░░░░░░░░░░░░░░░   33.50%
-🌆 Evening                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50%
-🌙 Night                  46 commits          ██████░░░░░░░░░░░░░░░░░░░   23.00%
+🌅 Morning                44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.67%
+🌞 Daytime                67 commits          ████████░░░░░░░░░░░░░░░░░   33.00%
+🌆 Evening                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.18%
+🌙 Night                  49 commits          ██████░░░░░░░░░░░░░░░░░░░   24.14%
 ```
 
 **📅 I'm Most Productive on Monday**
 
 ```text
-Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.00%
-Monday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50%
-Tuesday                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00%
-Wednesday                28 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.00%
-Thursday                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   18.00%
-Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.50%
-Saturday                 18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.00%
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85%
+Monday                   41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20%
+Tuesday                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.78%
+Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+Thursday                 36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73%
+Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.30%
+Saturday                 21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34%
 ```
 
 **🔥 I Mostly Code in Jupyter Notebook**
