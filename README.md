@@ -35,30 +35,30 @@ vasupatelll@github
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36%
-🌞 Daytime                68 commits          ████████░░░░░░░░░░░░░░░░░   33.01%
-🌆 Evening                45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.84%
-🌙 Night                  49 commits          ██████░░░░░░░░░░░░░░░░░░░   23.79%
+🌅 Morning                44 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15%
+🌞 Daytime                68 commits          ████████░░░░░░░░░░░░░░░░░   32.69%
+🌆 Evening                45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.63%
+🌙 Night                  51 commits          ██████░░░░░░░░░░░░░░░░░░░   24.52%
 ```
 
 **📅 I'm Most Productive on Monday**
 
 ```text
-Sunday                    20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71%
-Monday                    42 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39%
-Tuesday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56%
-Wednesday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
-Thursday                  36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48%
-Friday                    27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
-Saturday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17%
+Sunday                    20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62%
+Monday                    42 commits          █████░░░░░░░░░░░░░░░░░░░░   20.19%
+Tuesday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42%
+Wednesday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46%
+Thursday                  38 commits          █████░░░░░░░░░░░░░░░░░░░░   18.27%
+Friday                    27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.98%
+Saturday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06%
 ```
 
 **🔥 I Mostly Code in Jupyter Notebook**
 
 ```text
-Jupyter Notebook          15 repos            ███████████████████░░░░░░   75.00%
-Python                    4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00%
-CSS                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00%
+Jupyter Notebook          15 repos            ██████████████████░░░░░░░   71.43%
+Python                    5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81%
+CSS                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76%
 ```
 
 
