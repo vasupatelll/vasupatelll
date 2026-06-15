@@ -53,12 +53,13 @@ Friday                    27 commits          ███░░░░░░░░�
 Saturday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47%
 ```
 
-**🔥 I Mostly Code in Jupyter Notebook**
+**🔥 I Mostly Code in Markdown**
 
 ```text
-Jupyter Notebook          15 repos            ██████████████████░░░░░░░   71.43%
-Python                    5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81%
-CSS                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76%
+Markdown                  13 repos            ██████████████░░░░░░░░░░░   56.52%
+Python                    6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09%
+SQL                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
+HTML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35%
 ```
 
 
