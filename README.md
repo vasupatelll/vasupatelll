@@ -32,33 +32,33 @@ vasupatelll@github
 ![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2032%20mins-550000?style=flat)
 
 <!--START_SECTION:readme-stats-->
-**🕒 I'm An Afternoon Warrior 🥷🏻**
+**🕒 I'm A Night Owl 🦉**
 
 ```text
-🌅 Morning                44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.18%
-🌞 Daytime                68 commits          ████████░░░░░░░░░░░░░░░░░   31.19%
-🌆 Evening                50 commits          ██████░░░░░░░░░░░░░░░░░░░   22.94%
-🌙 Night                  56 commits          ██████░░░░░░░░░░░░░░░░░░░   25.69%
+🌅 Morning                44 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38%
+🌞 Daytime                68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.22%
+🌆 Evening                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.34%
+🌙 Night                  144 commits         ████████████░░░░░░░░░░░░░   47.06%
 ```
 
-**📅 I'm Most Productive on Thursday**
+**📅 I'm Most Productive on Saturday**
 
 ```text
-Sunday                    20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17%
-Monday                    43 commits          █████░░░░░░░░░░░░░░░░░░░░   19.72%
-Tuesday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.76%
-Wednesday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84%
-Thursday                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   20.64%
-Friday                    27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
-Saturday                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47%
+Sunday                    20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54%
+Monday                    43 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05%
+Tuesday                   30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80%
+Wednesday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15%
+Thursday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71%
+Friday                    27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82%
+Saturday                  113 commits         █████████░░░░░░░░░░░░░░░░   36.93%
 ```
 
 **🔥 I Mostly Code in Markdown**
 
 ```text
-Markdown                  13 repos            ██████████████░░░░░░░░░░░   56.52%
+Markdown                  14 repos            ███████████████░░░░░░░░░░   60.87%
 Python                    6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09%
-SQL                       3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
+SQL                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70%
 HTML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35%
 ```
 
