@@ -35,22 +35,22 @@ vasupatelll@github
 **🕒 I'm A Night Owl 🦉**
 
 ```text
-🌅 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57%
-🌞 Daytime                68 commits          █████░░░░░░░░░░░░░░░░░░░░   19.43%
-🌆 Evening                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29%
-🌙 Night                  188 commits         █████████████░░░░░░░░░░░░   53.71%
+🌅 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
+🌞 Daytime                68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63%
+🌆 Evening                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70%
+🌙 Night                  203 commits         ██████████████░░░░░░░░░░░   55.62%
 ```
 
 **📅 I'm Most Productive on Saturday**
 
 ```text
-Sunday                    20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71%
-Monday                    43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
-Tuesday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.14%
-Wednesday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00%
-Thursday                  66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.86%
-Friday                    27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71%
-Saturday                  113 commits         ████████░░░░░░░░░░░░░░░░░   32.29%
+Sunday                    20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.48%
+Monday                    43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
+Tuesday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52%
+Wednesday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67%
+Thursday                  81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.19%
+Friday                    27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40%
+Saturday                  113 commits         ████████░░░░░░░░░░░░░░░░░   30.96%
 ```
 
 **🔥 I Mostly Code in Markdown**
