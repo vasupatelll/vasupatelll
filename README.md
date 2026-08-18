@@ -35,31 +35,31 @@ vasupatelll@github
 **🕒 I'm A Night Owl 🦉**
 
 ```text
-🌅 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.02%
-🌞 Daytime                68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.58%
-🌆 Evening                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.93%
-🌙 Night                  203 commits         ██████████████░░░░░░░░░░░   55.46%
+🌅 Morning                44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99%
+🌞 Daytime                68 commits          █████░░░░░░░░░░░░░░░░░░░░   18.53%
+🌆 Evening                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90%
+🌙 Night                  204 commits         ██████████████░░░░░░░░░░░   55.59%
 ```
 
 **📅 I'm Most Productive on Saturday**
 
 ```text
-Sunday                    20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.46%
-Monday                    43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75%
-Tuesday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48%
-Wednesday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65%
-Thursday                  81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.13%
-Friday                    27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38%
-Saturday                  114 commits         ████████░░░░░░░░░░░░░░░░░   31.15%
+Sunday                    20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.45%
+Monday                    44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99%
+Tuesday                   53 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44%
+Wednesday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63%
+Thursday                  81 commits          ██████░░░░░░░░░░░░░░░░░░░   22.07%
+Friday                    27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36%
+Saturday                  114 commits         ████████░░░░░░░░░░░░░░░░░   31.06%
 ```
 
 **🔥 I Mostly Code in Markdown**
 
 ```text
-Markdown                  14 repos            ███████████████░░░░░░░░░░   60.87%
-Python                    6 repos             ███████░░░░░░░░░░░░░░░░░░   26.09%
-SQL                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70%
-HTML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35%
+Markdown                  15 repos            ████████████████░░░░░░░░░   62.50%
+Python                    6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00%
+SQL                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33%
+HTML                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17%
 ```
 
 
